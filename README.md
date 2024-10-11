@@ -20,3 +20,13 @@ https://xorik.github.io/advancements/
 - When you finished a new advancement, you need to drag & drop the file again. Any ideas about automating this are appreciated
 - There is a delay between finishing criteria (e.g. after eating a new type of food) and updating a JSON file in your world directory. To force save the JSON file, you can exit the world
 - I have no idea how to do it for multiplayer servers. Any ideas are welcome
+
+### Development:
+For development purposes the Website can be hosted on GitHub Pages. This is especially useful for obtaining small changes in the UI, where the hosting location is irrelevant.
+
+To enable Deployment to GitHub Pages go to the *Settings* section of the repository in GitHub. Sroll down to *Pages*, choose a *Branch* (usually *master*) and a directory (usually */ (root)*).
+
+**Don't forget to DISABLE**  GitHub Pages afterwards by changing *Branch* to *None*.
+
+GitHub Pages link for the repository (if enabled):
+https://demokrit5.github.io/Minecraft-Tracker/

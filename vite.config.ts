@@ -15,5 +15,5 @@ export default defineConfig({
     Icons({ autoInstall: true }),
     VueTypeImports(),
   ],
-  base: '/advancements/',
+  base: '/Minecraft-Tracker/',
 })
