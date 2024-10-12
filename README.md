@@ -24,12 +24,10 @@ https://xorik.github.io/advancements/
 ### Development:
 For development purposes the Website can be hosted on GitHub Pages. This is especially useful for obtaining small changes in the UI, where the hosting location is irrelevant.
 
-To enable Deployment to GitHub Pages go to the *Settings* section of the repository in GitHub. Sroll down to *Pages*, choose a *Branch* (usually *master*) and a directory (usually */ (root)*).
+To enable Deployment to GitHub Pages go to the *Settings* section of the repository in GitHub. Sroll down to *Pages*, choose a *Branch* (**has to be** *gh-pages*) and a directory (usually */ (root)*).
 
 **Don't forget to DISABLE**  GitHub Pages afterwards by changing *Branch* to *None*.
 
 GitHub Pages link for the repository (if enabled):
 https://demokrit5.github.io/Minecraft-Tracker/
 
-
-test commit if it works now
