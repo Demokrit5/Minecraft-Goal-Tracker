@@ -30,3 +30,6 @@ To enable Deployment to GitHub Pages go to the *Settings* section of the reposit
 
 GitHub Pages link for the repository (if enabled):
 https://demokrit5.github.io/Minecraft-Tracker/
+
+
+test commit if it works now
