@@ -31,3 +31,9 @@ To enable Deployment to GitHub Pages go to the *Settings* section of the reposit
 GitHub Pages link for the repository (if enabled):
 https://demokrit5.github.io/Minecraft-Tracker/
 
+
+start of own notes
+### Setup:
+- node.js v22.12.0
+- npm 10.9.0
+
