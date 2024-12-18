@@ -7,6 +7,10 @@ import VueTypeImports from 'vite-plugin-vue-type-imports'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  server: {
+    host: '192.168.0.15',
+    port: 80
+  },   
   plugins: [
     vue(),
     Components({
@@ -15,5 +19,6 @@ export default defineConfig({
     Icons({ autoInstall: true }),
     VueTypeImports(),
   ],
-  base: '/Minecraft-Tracker/',
+  base: '/',
+  
 })

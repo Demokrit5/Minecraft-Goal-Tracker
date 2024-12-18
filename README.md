@@ -1,6 +1,8 @@
-# Minecraft advancements tracker
+# Minecraft goal tracker
 
-https://xorik.github.io/advancements/
+**Forked from:** https://xorik.github.io/advancements/
+
+TODO rewrite
 
 ### Features:
 - Show the total progress of all advancements
@@ -32,8 +34,17 @@ GitHub Pages link for the repository (if enabled):
 https://demokrit5.github.io/Minecraft-Tracker/
 
 
+---------
+
+
 start of own notes
 ### Setup:
 - node.js v22.12.0
 - npm 10.9.0
+
+
+### Tools:
+- **Vue:** JavaScript Framework for building web user interfaces
+- **Vite:** Build Tool for Frontend and Development Server
+- TODO: eslint, prettier, postcss, tailwind, tsconfig.node.js
 
